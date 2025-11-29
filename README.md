@@ -37,5 +37,3 @@ The dashboard will include the following KPIs:
 - **Brand Comparison Chart** → Bar chart showing top 5 Brand as per discount.   
 - **Sales Analysis** → Bar Charts showing top 5 Brands .
 - **No.of Varities** → Pie chart showing top 5 brand's varities.
-
-        thus, more customers have travel type 'Business'.
