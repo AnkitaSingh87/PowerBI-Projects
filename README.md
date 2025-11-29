@@ -1,6 +1,3 @@
-SALES DASHBOARD
-
-## Problem Statement
 
 # 📊 Men’s Shirts Sales Dashboard (Power BI)
 
